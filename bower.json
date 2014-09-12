@@ -1,0 +1,28 @@
+{
+  "name": "carousel-directive",
+  "version": "0.0.0",
+  "authors": [
+    "caasjj <caasjj@gmail.com>"
+  ],
+  "description": "Angular UI Bootstrap's carousel directive ported to Foundation framework",
+  "main": "app/carousel.js",
+  "keywords": [
+    "carousel",
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/caasjj/angular-foundation-carousel",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.24",
+    "angular-foundation": "~0.3.1",
+    "foundation": "~5.4.3"
+  }
+}
